@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "net.copper.lemonmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "net.copper.lemonmod.mixin.ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
